@@ -8,7 +8,7 @@ export function getCellElementList() {
 }
 
 export function getCurrentTurnElement() {
-  return document.getElementById("current-turn");
+  return document.getElementById("currentTurn");
 }
 
 export function getCellElementAtIdx(index) {
